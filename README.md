@@ -7,7 +7,6 @@ Software Engineer
 My name is Matija (also known as Ludwing). I am a Software Engineer, although I worked in ASW Inžinjering. I enjoy creating software solutions and currently focus more on retail solutions.
 
 * 🌍  I'm based in Belgrade,Serbia
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/matija-dragic-b571472a6/)
 * ✉️  You can contact me at [info@matijadragic.com](mailto:info@matijadragic.com)
 * 🚀  I'm currently working on [ASW Inžinjering](http://www.asw.eu/asw-mercantis)
 * 🧠  I'm learning Vaddin
