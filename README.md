@@ -8,7 +8,7 @@ My name is Matija (also known as Ludwing). I am a Software Engineer, although I 
 
 * 🌍  I'm based in Belgrade,Serbia
 * ✉️  You can contact me at [info@matijadragic.com](mailto:info@matijadragic.com)
-* 🚀  I'm currently working on [ASW Inžinjering](http://www.asw.eu/asw-mercantis)
+* 🚀  I'm currently working on [ASW](http://www.asw.eu/asw-mercantis)
 * 🧠  I'm learning Vaddin
 * 🤝  I'm open to collaborating on any Java project
 
