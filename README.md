@@ -11,7 +11,7 @@ My name is Matija (also known as Ludwing). I am a Software Engineer, although I 
 * 🤝  I'm open to collaborating on any Java project
 
 <a href="mailto:info@matijadragic.com" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ludwing?logo=linkedin&style=for-the-badge&color=c5081d&labelColor=1f1f1f"
+src="https://img.shields.io/twitter/follow/me?logo=twitter&style=for-the-badge&color=c5081d&label=Contact%20Me&labelColor=1f1f1f"
 /></a>
 
 ### Skills
