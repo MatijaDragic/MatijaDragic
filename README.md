@@ -12,9 +12,6 @@ My name is Matija (also known as Ludwing). I am a Software Engineer, although I 
 * 🧠  I'm learning Vaddin
 * 🤝  I'm open to collaborating on any Java project
 
-<a href="https://www.github.com/MatijaDragic" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MatijaDragic?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <a href="https://www.linkedin.com/in/matija-dragic-b571472a6/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ludwing?logo=linkedin&style=for-the-badge&color=ef4444&labelColor=1c1917"
 /></a>
